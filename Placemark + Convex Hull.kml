@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <description>Convex Hull</description>
+    <Placemark id="track1">
+        <name>frankies path</name>
+        <LineString>
+            <coordinates>
+-122.2067264,47.6110601,0
+-122.2118938,47.6114015,0
+-122.2069844,47.6176461,0
+-122.2005052,47.6202348,0
+-122.1997209,47.6177429,0
+-122.2015452,47.6132785,0
+-122.2047037,47.6113896,0
+-122.2067264,47.6110601,0
+            </coordinates>
+        </LineString>
+    </Placemark>
+    
+  <Placemark>
+    <name>Hyatt Regency</name>
+    <description>It is a very famous hotel in Bellevue area.</description>
+    <Point>
+      <coordinates>-122.2015924, 47.6186042, 0</coordinates>
+    </Point>
+  </Placemark>
+ 
+  <Placemark>
+    <name>Westin Corporate Office</name>
+    <description>It houses many of the big companies like Microsoft, expedia and Red Hat.</description>
+    <Point>
+      <coordinates>-122.2016137, 47.6156131, 0</coordinates>
+    </Point>
+  </Placemark>
+
+    <Placemark>
+    <name>Starbucks Coffee</name>
+    <description>Seattle is famous for coffee. The first starbucks was opened here in 1912.</description>
+    <Point>
+      <coordinates>-122.2015452, 47.6132785, 0</coordinates>
+    </Point>
+  </Placemark>
+
+    <Placemark>
+    <name>Cinemark Theatre </name>
+    <description>One of the theatres in Bellevue.</description>
+    <Point>
+      <coordinates>-122.1997209, 47.6177429, 0</coordinates>
+    </Point>
+  </Placemark>
+
+      <Placemark>
+    <name>Downtown Park</name>
+    <description>The beautiful lustre green park in Belleuve.</description>
+    <Point>
+      <coordinates>-122.2047037, 47.6113896, 0</coordinates>
+    </Point>
+  </Placemark>
+
+<Placemark>
+    <name>chevron station </name>
+    <description>It has the many expensive cars on display.</description>
+    <Point>
+      <coordinates>-122.2067264, 47.6110601, 0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Maydenbaur Beach </name>
+    <description>Most beautiful place in Belleuve. The highlight of this city. A park besides the lake.</description>
+    <Point>
+      <coordinates>-122.2118938, 47.6114015, 0</coordinates>
+    </Point>
+  </Placemark>
+
+    <Placemark>
+    <name>100th avenue </name>
+    <description>A beautiful path which connect the city end to end.</description>
+    <Point>
+      <coordinates>-122.2069844, 47.6176461, 0</coordinates>
+    </Point>
+  </Placemark>
+
+     <Placemark>
+    <name>Dominoes </name>
+    <description>Finally a pizza place.</description>
+    <Point>
+      <coordinates>-122.2005052, 47.6202348, 0</coordinates>
+    </Point>
+  </Placemark> 
+
+</Document>
+ 
+</kml>
